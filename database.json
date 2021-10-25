@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Melania",
+      "lastName": "Trump",
+      "email": "melany_melu_2009@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano",
+      "lastName": "Ronaldo",
+      "email": "ronaldo23@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Lali",
+      "lastName": "Gonzalez",
+      "email": "supergirl123@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Viviana",
+      "lastName": "Canosa",
+      "email": "superfulana@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "lastName": "Demichellis",
+      "email": "maxi@gmail.com"
+    }
+  ]
